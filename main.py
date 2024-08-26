@@ -32,7 +32,7 @@ class ColorConverter(FlowLauncher):
                     }
                 ]
             elif len(color) == 6:
-                rgb = tuple(str(int(color[i:i + 2], 16) for i in (0, 2, 4)))
+                rgb = map(str, tuple(int(color[i:i + 2], 16) for i in (0, 2, 4)))
                 rgb_str = ", ".join(rgb)
                 return [
                     {
