@@ -1,0 +1,12 @@
+{
+    "ID": "5CBC6A0E-32C4-7718-5234-CED21D449793",
+    "ActionKeyword": "cc:",
+    "Name": "ColorConverter",
+    "Description": "Python Color Converter Plugin",
+    "Author": "lWaterLite",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython",
+    "IcoPath": "Image\\app.png",
+    "ExecuteFileName": "main.py"
+}
