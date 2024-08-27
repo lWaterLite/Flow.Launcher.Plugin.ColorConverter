@@ -10,7 +10,7 @@ Since I haven't setup CI/CD for this repo, the plugin must be installed manually
 
 - Clone or Download this repo
 
-- move the plugin folder into your Flow.Launcher plugin directory, e.g. `C:\Program Files\FlowLauncher\app-1.18.0\UserData\Plugins\Date Calculator-0.1.6`
+- move the plugin folder into your Flow.Launcher plugin directory, e.g. `C:\Program Files\FlowLauncher\app-1.18.0\UserData\Plugins`
 
 - Open the console in plugin directory, and type with the following code.
 
@@ -20,7 +20,7 @@ Since I haven't setup CI/CD for this repo, the plugin must be installed manually
 
 - Restart the launcher.
 
-- Now it should be installed successfully, try the keyword `cc:` keyword.
+- Now it should be installed successfully, try the keyword `cc:`.
 
 ## Usage
 
@@ -35,7 +35,7 @@ Start with `#`, the hex will be converted into RGB format. Press Enter to copy t
 e.g.
 
 - `#222` will be converted to `34, 34, 34`
-- #343434 will be converted to `52, 52, 52`
+- `#343434` will be converted to `52, 52, 52`
 
 ### RGB to Hex
 
